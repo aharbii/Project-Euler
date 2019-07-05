@@ -1,2 +1,3 @@
 # Project-Euler
-My solutions for project euler contest on HackerRank
+My solutions for project euler contest
+https://projecteuler.net/
